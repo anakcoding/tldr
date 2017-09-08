@@ -1,5 +1,7 @@
 # Show Hiden Files OS X
 
+>Show Hidden Files Configuration
+
 - Show Files
 
 `defaults write com.apple.Finder AppleShowAllFiles true`
