@@ -25,7 +25,7 @@
 
 - Send data in JSON format, specifying the appropriate content-type header:
 
-`curl -d {{'{"name":"bob"}'}} -H {{'Content-Type: application/json'}} {{http://example.com/users/1234}}`
+`curl -d {{'"name":"bob"'}} -H {{'Content-Type: application/json'}} {{http://example.com/users/1234}}`
 
 - Pass a user name and password for server authentication:
 
