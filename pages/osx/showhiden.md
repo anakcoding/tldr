@@ -6,10 +6,14 @@
 
 `defaults write com.apple.Finder AppleShowAllFiles true`
 
+- Restart Finder
+
 `killall Finder`
 
 - Hide Files
 
 `defaults write com.apple.Finder AppleShowAllFiles true`
+
+- Restart Finder
 
 `killall Finder`
