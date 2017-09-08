@@ -1,19 +1,19 @@
 # Show Hiden Files OS X
 
-> Show Hidden Files Configuration
+> Show Hidden Files Configuration.
 
-- Show Files
+- Show Files:
 
-`defaults write com.apple.Finder AppleShowAllFiles {{true}}`
+`defaults write com.apple.Finder AppleShowAllFiles true`
 
-- Restart Finder
+- Restart Finder:
 
-`killall {{Finder}}`
+`killall Finder`
 
-- Hide Files
+- Hide Files:
 
-`defaults write com.apple.Finder AppleShowAllFiles {{false}}`
+`defaults write com.apple.Finder AppleShowAllFiles false`
 
-- Restart Finder
+- Restart Finder:
 
-`killall {{Finder}}`
+`killall Finder`
