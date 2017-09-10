@@ -1,4 +1,4 @@
-# chamode
+# chmod
 
 - The symbolic permissions of the files and folders in your home directory are displayed, as shown below:
 
