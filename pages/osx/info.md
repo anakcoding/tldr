@@ -1,60 +1,60 @@
 # Info
 
->folowing instructions for show info
+> Folowing instructions for show info
 
-- look up STRING in all indices of all manuals:
+- Look up STRING in all indices of all manuals:
 
 `info --apropos {{String}}`
 
-- add DIR to INFOPATH:
+- Add DIR to INFOPATH:
 
 `info -d {{Dir}}`
 
-- remember user keystrokes in FILENAME:
+- Remember user keystrokes in FILENAME:
 
 `info  -d {{Filename}}`
 
-- specify Info file to visit:
+- Specify Info file to visit:
 
 `info -f {{Filename}}`
 
-- display this help and exit:
+- Display this help and exit:
 
 `info -h`
 
-- go to node pointed by index entry STRING:
+- Go to node pointed by index entry STRING:
 
 `info --index-search {{String}}`
 
-- specify nodes in first visited Info file:
+- Specify nodes in first visited Info file:
 
 `info -n {{Filename}}`
 
-- output selected nodes to FILENAME:
+- Output selected nodes to FILENAME:
 
 `info -o {{Filename}}`
 
--  output "raw" ANSI escapes (default):
+-  Output "raw" ANSI escapes (default):
 
 `info -R`
 
--  output escapes as literal text:
+-  Output escapes as literal text:
 
 `info --no-raw-escapes`
 
-- read initial keystrokes from FILENAME:
+- Read initial keystrokes from FILENAME:
 
 `info --restore {{Filename}}`
 
-- go to command-line options node:
+- Go to command-line options node:
 
 `info -O`
 
-- recursively output menu items:
+- Recursively output menu items:
 
 `--subnodes`
 
-- print physical location of Info file:
+- Print physical location of Info file:
 
 `info -w`
 
@@ -62,6 +62,6 @@
 
 `--vi-keys`
 
-- display version information and exit:
+- Display version information and exit:
 
 `--version`
