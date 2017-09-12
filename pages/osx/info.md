@@ -1,5 +1,7 @@
 # Info
 
+>folowing instructions for show info
+
 - look up STRING in all indices of all manuals:
 
 `info --apropos {{String}}`
