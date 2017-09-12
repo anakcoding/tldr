@@ -1,6 +1,6 @@
 # Info
 
-> Folowing instructions for show info:
+> Folowing instructions for show info.
 
 - Look up STRING in all indices of all manuals:
 
