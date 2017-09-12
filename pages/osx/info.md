@@ -1,6 +1,6 @@
 # Info
 
-> Folowing instructions for show info
+> Folowing instructions for show info:
 
 - Look up STRING in all indices of all manuals:
 
@@ -58,7 +58,7 @@
 
 `info -w`
 
-- use vi-like and less-like key bindings:
+- Use vi-like and less-like key bindings:
 
 `--vi-keys`
 
